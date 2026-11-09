@@ -1,0 +1,23 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.DS_Store
+.agents
+*.zip
+*.log
+
+# Maven & Java
+target/
+*.class
+.factorypath
+.project
+.settings/
+.classpath
+
+.vercel
+.env*.local
+.env
+!.env.example
+!server/.env.example
